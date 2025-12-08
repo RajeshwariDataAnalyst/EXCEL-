@@ -45,7 +45,7 @@ and basic AI-powered features, the project converts raw medical and operational 
    - **Pivot Table:** Generated Pivot Tables for data summarization and initial insights.Convert the data into Fact and Dimension Table.
 ## Analysis And Visualization:
 ### Dashboard Feature:
-![Alt text](image_path_or_URL "Optional Title")   
+![Alt text](https://github.com/RajeshwariDataAnalyst/EXCEL-/blob/main/Excel%20Dashboard.png)   
 ### Interactive Visualizations:
 - The dashboard includes various charts such as pie charts, bar charts, and line graphs to visualize
 key healthcare metrics, including weight status, heart issues, smoking status, and number of surgeries.
