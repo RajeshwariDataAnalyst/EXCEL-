@@ -1,4 +1,4 @@
-# AI Powered Healthcare Data Insights And Dashboarding
+# AI Powered Healthcare Data Insights And Dashboard
 
 ## Project Overview and Objective:
 The system collects and process medical, clinical, and operational datasets, such as patient records,
